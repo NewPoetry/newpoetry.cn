@@ -1,0 +1,22 @@
+html {
+    font-size: 0.875rem;
+}
+
+a {
+    text-decoration: none;;
+}
+
+.container {
+    max-width: 1140px;
+}
+
+.footer {
+    margin-top: 2rem;
+    font-size: 0.8rem;
+    color:grey;
+}
+
+.header .navbar-brand .logo {
+    
+    font-size: 1.5rem;
+}
